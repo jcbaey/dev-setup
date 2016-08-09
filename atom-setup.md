@@ -21,4 +21,5 @@ apm install react
 apm install react-snippets
 apm install autocomplete-paths
 apm install docblockr
+apm install file-icons
 ```
