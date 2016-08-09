@@ -22,4 +22,5 @@ apm install react-snippets
 apm install autocomplete-paths
 apm install docblockr
 apm install file-icons
+apm install atom-beautify
 ```
