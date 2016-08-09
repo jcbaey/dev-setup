@@ -18,12 +18,12 @@ apm install open-in-browser
 apm install open-terminal-here
 apm install react
 apm install react-snippets
-apm install autocomplete-paths
 apm install autocomplete-modules
 apm install docblockr
 apm install file-icons
 apm install atom-beautify
 apm install pigments
+apm install autoclose-html
 ```
 
 # Eslint
