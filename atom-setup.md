@@ -23,6 +23,7 @@ apm install autocomplete-modules
 apm install docblockr
 apm install file-icons
 apm install atom-beautify
+apm install pigments
 ```
 
 # Eslint
