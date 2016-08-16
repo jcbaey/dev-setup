@@ -5,7 +5,7 @@ Setup ATOM editor
 
 https://atom.io/
 
-# Install plugins
+# Curated list of plugins to install
 
 In a command line:
 
