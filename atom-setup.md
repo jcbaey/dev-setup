@@ -24,6 +24,7 @@ apm install file-icons
 apm install atom-beautify
 apm install pigments
 apm install autoclose-html
+apm install highlight-selected
 ```
 
 # Eslint
