@@ -25,7 +25,10 @@ apm install atom-beautify
 apm install pigments
 apm install autoclose-html
 apm install highlight-selected
+
+# To fix the closing bracket issue, install this:
 apm install keyboard-localization
+# Then Restart Atom, Settings > Packages > Keyboard-localization settings > Select fr-fr keyboard.
 ```
 
 # Eslint
