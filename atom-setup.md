@@ -25,6 +25,7 @@ apm install atom-beautify
 apm install pigments
 apm install autoclose-html
 apm install highlight-selected
+apm install keyboard-localization
 ```
 
 # Eslint
