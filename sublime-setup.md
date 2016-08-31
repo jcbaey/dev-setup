@@ -45,10 +45,7 @@ Edit the file
 		"SublimeREPL",
 		"tern_for_sublime",
 		
-		"Flatron",
-		"Theme - Asphalt",
-		"Theme - Flatland",
-		
+		"Boxy Theme"
 		"SmartMarkdown",
 		"Markdown Extended",
 		"Markdown Preview",
@@ -57,6 +54,11 @@ Edit the file
 		"Sass",
 		"LESS",
 		"EJS",
+		
+		"babel",
+		"Babel Snippets",
+		"SublimeLinter-contrib-eslint",
+		
 	]
 }
 ```
