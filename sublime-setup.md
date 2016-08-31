@@ -71,3 +71,4 @@ Eslint may request the local installations of node modules in the project:
 ```
 npm install babel-cli eslint eslint-plugin-react babel-eslint eslint-config-defaults eslint-plugin-flowtype eslint-plugin-jsx-a11y --save-dev
 ```
+Them follow this to configure your Sublime text: http://jonathancreamer.com/setup-eslint-with-es6-in-sublime-text/
