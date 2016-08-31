@@ -18,51 +18,45 @@ Edit the file
 
 ```
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
+		"Package Control",
+	
 		"Alignment",
-		"All Autocomplete",
-		"AngularJS",
-		"Auto Semi-Colon",
+		"DocBlockr",
 		"AutoFileName",
+		"Auto Semi-Colon",
 		"BracketHighlighter",
 		"ChangeQuotes",
-		"CMake",
-		"CMakeSnippets",
-		"DocBlockr",
-		"EJS",
-		"ESLint",
-		"Flatron",
-		"Grunt",
 		"hextoASCII",
 		"HTML-CSS-JS Prettify",
+		
+		"All Autocomplete",
+		"AngularJS",
 		"JavaScript & NodeJS Snippets",
-		"jQuery",
-		"LESS",
-		"LiveReload",
-		"Markdown Extended",
-		"Markdown Preview",
-		"nginx",
-		"Origami",
-		"Package Control",
-		"PHP Companion",
-		"PHP Haml",
-		"Pretty JSON",
-		"Sass",
-		"ShellCommand",
+		
 		"SideBarEnhancements",
-		"SmartMarkdown",
+		"SideBarGit",
+		"Terminal",
+		"View In Browser"
+		
+		"ESLint",
 		"SublimeLinter",
 		"SublimeREPL",
 		"tern_for_sublime",
+		
+		"Flatron",
 		"Theme - Asphalt",
 		"Theme - Flatland",
-		"View In Browser",
-		"Xdebug Client"
+		
+		"SmartMarkdown",
+		"Markdown Extended",
+		"Markdown Preview",
+		
+		"nginx",
+		"Sass",
+		"LESS",
+		"EJS",
 	]
 }
 ```
