@@ -38,14 +38,13 @@ Edit the file
 		"SideBarEnhancements",
 		"SideBarGit",
 		"Terminal",
-		"View In Browser"
+		"View In Browser",
 		
 		"ESLint",
 		"SublimeLinter",
 		"SublimeREPL",
-		"tern_for_sublime",
 		
-		"Boxy Theme"
+		"Boxy Theme",
 		"SmartMarkdown",
 		"Markdown Extended",
 		"Markdown Preview",
@@ -58,7 +57,7 @@ Edit the file
 		
 		"babel",
 		"Babel Snippets",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-eslint"
 		
 	]
 }
