@@ -12,7 +12,7 @@ First install the package control: https://packagecontrol.io/installation
 Then, to install all plugins in 1 shot, edit the file
 
 - WINDOWS: %appdata%\Sublime Text 3\Packages\User\Package Control.sublime-settings
-- LINUX/OSX: ?
+- OSX: ~/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings
 
 Edit the file
 
@@ -54,6 +54,7 @@ Edit the file
 		"Sass",
 		"LESS",
 		"EJS",
+		"Dockerfile Syntax Highlighting",
 		
 		"babel",
 		"Babel Snippets",
