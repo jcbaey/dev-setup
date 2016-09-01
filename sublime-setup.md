@@ -55,7 +55,7 @@ Edit the file
 		"EJS",
 		"Dockerfile Syntax Highlighting",
 		
-		"babel",
+		"Babel",
 		"Babel Snippets",
 		"SublimeLinter-contrib-eslint"
 		
