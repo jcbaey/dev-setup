@@ -11,8 +11,8 @@ First install the package control: https://packagecontrol.io/installation
 
 Then, to install all plugins in 1 shot, edit the file
 
-WINDOWS: %appdata%\Sublime Text 3\Packages\User\Package Control.sublime-settings
-LINUX/OSX: ?
+- WINDOWS: %appdata%\Sublime Text 3\Packages\User\Package Control.sublime-settings
+- LINUX/OSX: ?
 
 Edit the file
 
