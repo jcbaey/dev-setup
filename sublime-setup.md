@@ -72,3 +72,10 @@ Eslint may request the local installations of node modules in the project:
 npm install babel-cli eslint eslint-plugin-react babel-eslint eslint-config-defaults eslint-plugin-flowtype eslint-plugin-jsx-a11y --save-dev
 ```
 Them follow this to configure your Sublime text: http://jonathancreamer.com/setup-eslint-with-es6-in-sublime-text/
+
+# Syntax Highlighting with JSX and ES6 ('Babel' plugin is required)
+
+Open a file with that extension,
+Select View from the menu,
+Then Syntax -> Open all with current extension as... -> Babel -> JavaScript (Babel).
+Repeat this for each extension (e.g.: .js and .jsx).
