@@ -13,6 +13,7 @@ Then, to install all plugins in 1 shot, edit the file
 
 - WINDOWS: %appdata%\Sublime Text 3\Packages\User\Package Control.sublime-settings
 - OSX: ~/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings
+- LINUX: ~/.config/sublime-text-3/Packages/User/Package\ Control.sublime-settings
 
 Edit the file
 
@@ -62,6 +63,10 @@ Edit the file
 	]
 }
 ```
+
+# Troubleshooting
+
+Make sure a package is not in the ignore list in Preferences.sublime-settings
 
 
 # Eslint
