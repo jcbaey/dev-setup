@@ -30,9 +30,9 @@
 
 ### On Windows
 ```
-$ git clone ssh://<user>@<hostname>/repositories/screenpresso.git
+$ git clone ssh://<user>@<hostname>/repositories/myrepo.git
 ```
 ### On OSX or Linux
 ```
-$ git clone ssh://<user>@<hostname>:/repositories/screenpresso.git
+$ git clone ssh://<user>@<hostname>:/repositories/myrepo.git
 ```
