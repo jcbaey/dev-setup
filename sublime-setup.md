@@ -63,7 +63,7 @@ Edit the file
 # Troubleshooting
 
 Make sure a package is not in the ignore list in Preferences.sublime-settings
-
+(find all occurences with `grep -rl -e "Boxy"`)
 
 # Eslint
 
