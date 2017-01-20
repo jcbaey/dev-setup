@@ -22,7 +22,6 @@ Edit the file
 	"installed_packages":
 	[
 		"Package Control",
-	
 		"Alignment",
 		"DocBlockr",
 		"AutoFileName",
@@ -31,26 +30,20 @@ Edit the file
 		"ChangeQuotes",
 		"hextoASCII",
 		"HTML-CSS-JS Prettify",
-		
 		"All Autocomplete",
 		"AngularJS",
 		"JavaScript & NodeJS Snippets",
-		
 		"SideBarEnhancements",
 		"Terminal",
 		"View In Browser",
-		
 		"ESLint",
 		"SublimeLinter",
 		"SublimeREPL",
-		
-		"Boxy Theme",
 		"SmartMarkdown",
 		"Markdown Extended",
 		"Markdown Preview",
 		
 		"nginx",
-		"Sass",
 		"LESS",
 		"EJS",
 		"Dockerfile Syntax Highlighting",
@@ -62,6 +55,10 @@ Edit the file
 	]
 }
 ```
+
+- Install theme: 
+
+"Boxy Theme"
 
 # Troubleshooting
 
