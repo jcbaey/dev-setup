@@ -37,7 +37,6 @@ Edit the file
 		"JavaScript & NodeJS Snippets",
 		
 		"SideBarEnhancements",
-		"SideBarGit",
 		"Terminal",
 		"View In Browser",
 		
